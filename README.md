@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reshan Tanvir</h1>
 <h3 align="center">A passionate Business Analyst from Bangladesh</h3>
 
-- 🔭 I’m currently working as a [Business Analyst at](iBOS Limited)
+- 🔭 I’m currently working as a Business Analyst at iBOS Limited
 
 - 🌱 I’m currently learning **about Project and Product Management.**
 
